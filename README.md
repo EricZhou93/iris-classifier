@@ -44,10 +44,6 @@ For example, python main.py "ANN - Iris data.txt"
 * 完成测试后，用户可以输入样本进行分类。对于每个样本，用户需要根据提示输入花萼长度、花萼宽度、花瓣长度和花瓣宽度（cm）。然后，它会返回鸢尾花样本的类型。若想终止程序，输入任意负值即可。  
 <img src="resource/classifying-screenshot.png" alt="training phase" width="300"/>  
 
-
-
-
-
 <br>
 
 ## Files
